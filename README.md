@@ -1,8 +1,7 @@
-# Algorithms Lab Progress
+# ADS (TFB2023) Lab Progress
 
 ✅ Completed | ⬜ In Progress
 
-This table tracks my lab progress.
 
 | Date       | Folder Name   | Files Added/Updated         | Description of Work                       | Status |
 |------------|---------------|-----------------------------|-------------------------------------------|--------|
