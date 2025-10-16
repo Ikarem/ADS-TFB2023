@@ -17,8 +17,12 @@ int main() {
 	node3.data = "Node3";
 	node3.ptr = NULL;
 
-	cout << node1.data << endl;
-	cout << node1.ptr->data << endl;
+	Node *current = &node1;
+	while (current != nullptr) {
+		cout << current->data << " ";
+		current = current->ptr;
+	};
+	cout << endl;
 }
 
 
