@@ -2,7 +2,7 @@
 
 ✅ Completed | ⬜ In Progress
 
-This table tracks my daily progress and the files created in the algorithms lab.
+This table tracks my lab progress.
 
 | Date       | Folder Name   | Files Added/Updated         | Description of Work                       | Status |
 |------------|---------------|-----------------------------|-------------------------------------------|--------|
