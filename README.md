@@ -13,7 +13,7 @@
 | [05/10/25](./05-10-25/) | [🟢 Easy - Rotate Image](./05-10-25/easy.cpp)<br>[🟠 Medium - Rectangle Max Sum](./05-10-25/medium.cpp)<br>[🔴 Hard - Matrix Chain Multiplication](./05-10-25/hard.cpp) |  Matrix Problems (Varying Difficulty) |✅ Working  |
 | [09/10/25](./09-10-25/) | [Task 1 (Singly Linked List)](./09-10-25/task_1.cpp)<br>[Task 2 (Doubly Linked List)](./09-10-25/task_2.cpp)|  Singly/Doubly Linked List |✅ Working  |
 | [16/10/25](./16-10-25/) | [Task 1 (Circular)](./16-10-25/task_1.cpp)|  Circular Linked List |✅ Working  |
-| [23/10/25](./23-10-25/) | [Task 1 (Stack)](./23-10-25/task_1.cpp)| Using Stack Operations (w/ Node) | Working |
+| [23/10/25](./23-10-25/) | [Task 1 (Stack)](./23-10-25/task_1.cpp)| Using Stack Operations (w/ Node) |✅ Working |
 
 
 ---
