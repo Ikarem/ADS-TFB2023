@@ -14,8 +14,8 @@
 | [09/10/25](./09-10-25/) | [Task 1 (Singly Linked List)](./09-10-25/task_1.cpp)<br>[Task 2 (Doubly Linked List)](./09-10-25/task_2.cpp)|  Singly/Doubly Linked List |✅ Working  |
 | [16/10/25](./16-10-25/) | [Task 1 (Circular)](./16-10-25/task_1.cpp)|  Circular Linked List |✅ Working  |
 | [23/10/25](./23-10-25/) | [Task 1 (Stack)](./23-10-25/task_1.cpp)| Using Stack Operations (w/ Node) |✅ Working |
-
+| [06/11/25](./06-11-25/) | [Task 1 (Queue)](./06-11-25/task_1.cpp)| Using Queue Operations (w/ Class) |✅ Working |
 
 ---
 🧠 *Maintained Solely by [Meraki](https://github.com/Ikarem)*  
-🔁 *You are allowed to fork this repository.*
+
